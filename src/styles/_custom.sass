@@ -1,15 +1,28 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: rotacion1 3.6s linear infinite
     position: absolute
-    top: 40%
-    right: 50%
+    top: 88%
+    right: 20%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    right: 70%
 
+.banner-principal__componente
+ h1  
+  color: $black
+.banner-principal__descripcion
+ p
+  color: $black
+
+
+@keyframes rotacion1
+  from 
+    transform: rotate(0deg)
+  to 
+    transform: rotate(360deg)
 
 @keyframes float1
   0%
@@ -17,3 +30,108 @@
 
   100%
     transform: translateY(0px)
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+//Color texto - Botón banner
+.banner-principal__accion
+  a > *
+    color: $white
+//colot texto - Botones CF
+a.boton
+  i, span
+    color: $white
+
+@media only screen and (width: 768px) 
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+
+  .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80% 
+
+@media only screen and (min-width: 390px) and (max-width: 391px)
+  .col-ipad
+    margin-right: 5rem !important
+    width: 80%
+  .slyder-b__slyde
+    .row
+      margin-right: 5rem !important
+      width: 80%
+
+.slyder__btn
+  background-color: #983333
+  color:#FFFFFF
+
+.slyder-f__btn i
+  color:#983333
+
+.slyder__btn
+  background-color: #983333
+  color:#FFFFFF
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #983333
+  color:#FFFFFF
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  color:#FFFFFF
+
+.slyder-a__bullets__item 
+  background-color: #A3BFE4
+
+.slyder-a__bullets__item--active
+  background-color: #983333
+  border-color: #983333
+  opacity: 1
+
+.tarjetas-up
+  overflow: hidden
+  border-radius: 5px
+  position: relative
+  &_card
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 5px
+    width: 100%
+    height: 100%
+    left: 0
+    bottom: -75%
+    @media (max-width: $bp-max-md)
+      bottom: -75%
+    i:last-child
+      display: none
+  &:hover
+    .tarjetas-up_card
+      bottom: 0%
+      // @media (max-width: $bp-max-xl)
+      //   bottom: -15%
+      // @media (max-width: $bp-max-lg)
+      //   bottom: 0
+      // @media (max-width: $bp-max-md)
+      //   bottom: -30%
+      // @media (max-width: $bp-max-sm)
+      //   bottom: -20%
+      // @media (max-width: $bp-max-xs)
+      //   bottom: 0
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+
+.titulo-herramientas 
+  padding: 1rem
+  background-color: $color-acento-contenido
+  color: #4B6280
+  border-radius: 0 1.5rem
