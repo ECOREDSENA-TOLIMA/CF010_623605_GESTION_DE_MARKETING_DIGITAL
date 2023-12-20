@@ -426,12 +426,207 @@
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_3_3 3.3 El Estatuto del Consumidor
+    
+    p(data-aos="fade-left") El Estatuto del Consumidor colombiano, Ley 1480 de 2011, establece los principios que operan como herramientas para guiar la interpretación y aplicación de las normas relacionadas con los derechos y las obligaciones de los consumidores. Estos principios ayudan a aclarar el alcance y el significado de la legislación de protección al consumidor en Colombia y brindan un marco legal para las relaciones entre los consumidores y los proveedores de bienes y servicios. Algunos de los principios clave incluyen:
+    p(data-aos="fade-left") El artículo 1 del Estatuto del Consumidor colombiano dispone:
+
+    .row.justify-content-center
+      .col-lg-10.col-12
+        .cajon.p-4.mb-3(style="background-color: #E3ECF7")
+          p “Esta ley tiene como objetivos proteger, promover y garantizar la efectividad y el libre ejercicio de los derechos de los consumidores, así como amparar el respeto a su dignidad y a sus intereses económicos, en especial, lo referente a:
+          .row.justify-content-center.align-items-center.mt-5
+            .col-lg-4.col-6.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/40.svg', alt='Imagen decorativa')
+            .col-lg-8.col-12.mb-3
+              ol.lista-ol--cuadro(style="color: #12263F")
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>1</b> 
+                  | La protección de los consumidores frente a los riesgos para su salud y seguridad.
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>2</b> 
+                  | El acceso de los consumidores a una información adecuada, de acuerdo con los términos de esta ley, que les permita hacer elecciones bien fundadas. 
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>3</b> 
+                  | La educación del consumidor.
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>4</b> 
+                  | La libertad de constituir organizaciones de consumidores y la oportunidad para esas organizaciones de hacer oír sus opiniones en los procesos de adopción de decisiones que las afecten.
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>5</b> 
+                  | La protección especial a los niños, niñas y adolescentes, en su calidad de consumidores, de acuerdo con lo establecido en el Código de la Infancia y la Adolescencia”.
+
+
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_3_4 3.4 El servicio al cliente en canales digitales
+    
+    p(data-aos="fade-left") El servicio de atención al cliente a través de canales digitales es esencial en la era moderna. Estos canales permiten a las empresas interactuar con sus clientes de manera eficiente y efectiva utilizando Internet. La calidad de este servicio es fundamental para la satisfacción y fidelización de los usuarios. Diversificar los canales de servicio es crucial para atender las demandas de los consumidores en menos tiempo y ofrecerles opciones según sus preferencias. 
+    p(data-aos="fade-left") Los principales canales de servicio al cliente en el ámbito digital incluyen:
+
+    .row.justify-content-center
+      .col-lg-10.col-12
+        LineaTiempoE.color-acento-contenido
+          .row.justify-content-center.align-items-center(titulo="01")
+            .col-lg-2.col-6
+              figure
+                img(src='@/assets/curso/temas/tema3/41.svg', alt='Imagen decorativa')
+            .col-lg-10.mb-4.mb-lg-0.col-12
+              h4 Correo electrónico
+              p La comunicación a través del correo electrónico permite a los clientes plantear preguntas o inquietudes y recibir respuestas detalladas. Es un canal asincrónico que brinda flexibilidad en cuanto al tiempo de respuesta.
+          .row.justify-content-center.align-items-center(titulo="02")
+            .col-lg-2.col-6
+              figure
+                img(src='@/assets/curso/temas/tema3/42.svg', alt='Imagen decorativa')
+            .col-lg-10.mb-4.mb-lg-0.col-12
+              h4 Chat en vivo
+              p Esta opción permite a los clientes chatear en tiempo real con representantes de servicio al cliente. Es particularmente útil para consultas rápidas y resolución de problemas en el momento.
+          .row.justify-content-center.align-items-center(titulo="03")
+            .col-lg-2.col-6
+              figure
+                img(src='@/assets/curso/temas/tema3/43.svg', alt='Imagen decorativa')
+            .col-lg-10.mb-4.mb-lg-0.col-12
+              h4 Redes sociales
+              p Las redes sociales como <i>Facebook</i>, <i>Twitter</i> e <i>Instagram</i> brindan un canal de comunicación directa con los clientes. Las empresas pueden responder preguntas, abordar quejas y proporcionar información a través de estas plataformas.
+          .row.justify-content-center.align-items-center(titulo="04")
+            .col-lg-2.col-6
+              figure
+                img(src='@/assets/curso/temas/tema3/44.svg', alt='Imagen decorativa')
+            .col-lg-10.mb-4.mb-lg-0.col-12
+              h4 Teléfono
+              p A pesar de ser un canal más tradicional, el servicio telefónico sigue siendo relevante. Los clientes pueden comunicarse con representantes de servicio al cliente por teléfono para obtener asistencia inmediata.
+          .row.justify-content-center.align-items-center(titulo="05")
+            .col-lg-2.col-6
+              figure
+                img(src='@/assets/curso/temas/tema3/45.svg', alt='Imagen decorativa')
+            .col-lg-10.mb-4.mb-lg-0.col-12
+              h4 Mensajería instantánea
+              p Plataformas de mensajería como <i>WhatsApp</i> y <i>Facebook</i> <i>Messenger</i> se utilizan cada vez más para interactuar con los clientes. Las empresas pueden proporcionar asistencia a través de mensajes de texto y multimedia.
+
+    .row.justify-content-center.mt-5
+      .col-lg-10.col-12
+        .cajon.color-secundario.p-4.mb-3(style="background-color: #FFFBE5")
+          p La elección de los canales de servicio digital adecuados debe estar en línea con las preferencias y necesidades de su público objetivo. Al diversificar y utilizar estos canales de manera efectiva, las empresas pueden mejorar la calidad de su servicio al cliente y brindar una experiencia satisfactoria a los consumidores.
+        
     separador 
     .titulo-segundo.color-acento-contenido
       h2#t_3_5 3.5 El plan de crisis
+
+    p(data-aos="fade-left") Un plan de crisis es fundamental para las empresas, ya que les permite lidiar eficazmente con situaciones en las que un cliente o usuario está insatisfecho y asegurar una resolución oportuna de los problemas. Identificar los eventos que pueden desencadenar una crisis es esencial para preparar un plan eficaz. Algunos ejemplos de eventos que pueden generar una crisis en el servicio al cliente incluyen:
+
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema3/46.svg' alt='AvatarTop')
+        h4 Reclamos de clientes
+        p Cuando los clientes expresan su insatisfacción a través de quejas o reclamos sobre productos o servicios.
+      .tarjeta.p-4.col-ipad(style="background-color: #FFFBE5")
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema3/47.svg' alt='AvatarTop')
+        h4 Incidentes de seguridad
+        p Cualquier violación de la seguridad de datos o la privacidad del cliente que pueda afectar su confianza en la empresa.
+      .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema3/48.svg' alt='AvatarTop')
+        h4 Errores en el producto o servicio
+        p Cuando se identifican defectos o problemas en productos o servicios que ya han sido entregados a los clientes.
+      .tarjeta.p-4.col-ipad(style="background-color: #FFFBE5")
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema3/49.svg' alt='AvatarTop')
+        h4 Cambios en políticas o procedimientos
+        p Modificaciones inesperadas en las políticas, términos y condiciones, o procedimientos de la empresa que pueden afectar negativamente a los clientes.
+      .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema3/50.svg' alt='AvatarTop')
+        h4 Incidentes públicos
+        p Eventos que atraen la atención pública, como accidentes que involucran productos o servicios de la empresa.
+      .tarjeta.p-4.col-ipad(style="background-color: #FFFBE5")
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema3/51.svg' alt='AvatarTop')
+        h4 Problemas de comunicación
+        p Fallos en la comunicación interna o externa que pueden confundir o desinformar a los clientes.
+      .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/tema3/52.svg' alt='AvatarTop')
+        h4 Crisis de reputación en redes sociales
+        p Comentarios negativos o virales en redes sociales que pueden dañar la reputación de la empresa.
+
+    .row.justify-content-center 
+      .col-lg-10.col-12
+        p(data-aos="fade-left") Una vez identificados estos eventos potenciales, el plan de crisis debe incluir procedimientos claros para abordar cada uno de ellos. Esto ayudará a la empresa a responder de manera efectiva y a recuperar la confianza de los clientes en situaciones difíciles. Además, es importante que el plan de crisis sea revisado y actualizado periódicamente para garantizar que esté alineado con las circunstancias cambiantes y las necesidades de los clientes.
+
+    .row.justify-content-center
+      .col-lg-10.col-12
+        .cajon.p-4.mb-3(style="background-color: #E3ECF7")
+          p Por todo esto se hace necesaria la formación de un <b>equipo anticrisis</b>, el cual es fundamental para gestionar situaciones difíciles en el servicio al cliente. Este equipo debe estar compuesto por individuos con habilidades especiales y estar capacitado para utilizar herramientas efectivas para lograr los siguientes objetivos:
+          .row.justify-content-center.align-items-center.mt-5
+            .col-lg-3.col-6.mb-3
+              figure
+                img(src='@/assets/curso/temas/tema3/53.svg', alt='Imagen decorativa')
+            .col-lg-8.col-12.mb-3
+              ol.lista-ol--cuadro(style="color: #12263F")
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>A</b> 
+                  | Apoyar en la restauración del servicio en el menor tiempo posible: el equipo anticrisis debe ser capaz de tomar medidas inmediatas para solucionar el problema y restaurar el servicio sin demoras innecesarias.
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>B</b> 
+                  | Comprender la situación del usuario y evitar ponerse a la defensiva: es importante que el equipo sea empático y pueda comprender las preocupaciones y frustraciones del cliente sin reaccionar defensivamente.
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>C</b> 
+                  | Conocer plenamente los procedimientos para dar respuestas coherentes: el equipo debe estar familiarizado con los procedimientos y políticas de la empresa para proporcionar respuestas coherentes y precisas a los clientes.
+                li 
+                  .lista-ol--cuadro__vineta
+                    span(style="color: #12263F") <b>D</b> 
+                  | Plantear posibles soluciones y manejar la crisis de manera eficiente: el equipo debe ser capaz de identificar soluciones efectivas y tomar decisiones rápidas para gestionar la crisis de manera eficiente.
+    p.mt-5 Además del equipo anticrisis, es importante que cuenten con el apoyo de: 
+
+    TabsA.color-acento-botones.mb-5.mt-5
+      .tarjeta.color-secundnario--borde.p-4(titulo="Recursos técnicos y tecnológicos")(style="background-color: #FFFBE5")
+        h4 Recursos técnicos y tecnológicos
+        p Herramientas y sistemas que faciliten la restauración del servicio y la comunicación con los clientes.
+      .tarjeta.color-secundnario--borde.p-4(titulo="Comunicación interna")(style="background-color: #FFFBE5")
+        h4 Comunicación interna
+        p Un canal de comunicación eficiente dentro de la organización para coordinar las respuestas y acciones necesarias.
+      .tarjeta.color-secundnario--borde.p-4(titulo="Comunicación externa")(style="background-color: #FFFBE5")
+        h4 Comunicación externa
+        p Un sistema para informar a los clientes sobre la situación, las medidas tomadas y los plazos previstos para la resolución.
+      .tarjeta.color-secundnario--borde.p-4(titulo="<i>Feedback</i> y aprendizaje")(style="background-color: #FFFBE5")
+        h4 <i>Feedback</i> y aprendizaje
+        p Un proceso de retroalimentación que permita analizar la crisis, identificar áreas de mejora y ajustar el plan de acción en consecuencia.
+
+    p(data-aos="fade-left") El equipo anticrisis debe estar preparado y dispuesto a actuar con rapidez y eficacia para garantizar la satisfacción del cliente y mantener la reputación de la empresa en situaciones de crisis.
+    p(data-aos="fade-left") Finalmente se hace necesaria la creación de un <b>plan anticrisis</b>, el cual es fundamental para garantizar la preparación de una organización frente a situaciones que puedan afectar su funcionamiento y la satisfacción del cliente. A continuación, se presentan algunas estrategias clave para desarrollar un plan de crisis efectivo:
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-4.col-8.mb-3
+        figure
+          img(src='@/assets/curso/temas/tema3/54.jpg', alt='Imagen decorativa')
+      .col-md-8.mb-5.mb-md-0
+        LineaTiempoD.color-acento-botones
+          p.text-small(numero="1" titulo="Responsables") Identifique los responsables para documentar el plan y defina claramente lo que califica como una crisis.
+          
+          p.text-small(numero="2" titulo="Indicadores") Establezca indicadores reales y fije métricas para medir la gestión de la atención al cliente.  
+          
+          p.text-small(numero="3" titulo="Formación") Capacite y entrene al equipo en protocolos para la comunicación interna y externa con base en situaciones de crisis.
+          
+          p.text-small(numero="4" titulo="Equipos") Conforme un recurso humano multidisciplinario para el manejo de diferentes casos.
+
+          p.text-small(numero="5" titulo="Roles y deberes") Defina adecuadamente los roles y deberes que debe tener cada integrante y garantice que las personas estén disponibles cuando sea necesario.
 
 </template>
 
