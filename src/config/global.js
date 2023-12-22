@@ -227,12 +227,12 @@ export default {
     {
       termino: '<em>Fanpage</em>',
       significado:
-        'también llamada “página de fans”, es la plataforma que ofrece <i>Facebook</i> a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios. A diferencia de un perfil, una fan page no tiene límite de fans y es posible tener acceso a la información estadística de la página.',
+        'también llamada “página de fans”, es la plataforma que ofrece Facebook a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios. A diferencia de un perfil, una fan page no tiene límite de fans y es posible tener acceso a la información estadística de la página.',
     },
     {
       termino: '<em>Hashtag</em>',
       significado:
-        'es una etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o texto. Su uso se ha extendido principalmente en redes sociales, como: <i>Instagram</i> o <i>Google Plus</i>.',
+        'es una etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o texto. Su uso se ha extendido principalmente en redes sociales, como: Instagram o Google Plus.',
     },
     {
       termino: 'Influenciador',

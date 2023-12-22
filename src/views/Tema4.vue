@@ -196,7 +196,7 @@
               .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
                 .row.justify-content-center.mb-3
                   .col-12
-                    p <b>e) Canales de comunicación:</b> decide los canales a través de los cuales te comunicarás con tus clientes. Esto incluye publicidad, redes sociales, sitio web y otros medios.
+                    p <b>e) Canales de comunicación:</b> decide los canales a través de los cuales te comunicarás con tus clientes. Esto incluye publicidad, redes sociales, sitio <i>web</i> y otros medios.
               .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
                 .row.justify-content-center.mb-3
                   .col-12
@@ -205,7 +205,7 @@
               .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
                 .row.justify-content-center.mb-3
                   .col-12
-                    p <b>g) Estrategia de contenido:</b> genera contenido relevante y valioso que conecte con tu audiencia. Esto puede incluir blogs, videos, redes sociales y otros tipos de contenido.
+                    p <b>g) Estrategia de contenido:</b> genera contenido relevante y valioso que conecte con tu audiencia. Esto puede incluir <i>blogs</i>, videos, redes sociales y otros tipos de contenido.
               .tarjeta.p-4.col-ipad(style="background-color: #E3ECF7")
                 .row.justify-content-center.mb-3
                   .col-12
@@ -246,7 +246,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema4/16.svg' alt='AvatarTop')
         h4 Objetivos
-        p Definir los objetivos explícitos a corto y largo plazo, que sean el motor de la brand visión y análisis de los <i>stakeholders</i> claves para capturar sus necesidades de <i>branding</i> implícitas.
+        p Definir los objetivos explícitos a corto y largo plazo, que sean el motor de la <i>brand visión</i> y análisis de los <i>stakeholders</i> claves para capturar sus necesidades de <i>branding</i> implícitas.
       .tarjeta.p-4.col-ipad(style="background-color: #FFFBE5")
         .row.justify-content-center.mb-3
           .col-8
@@ -302,7 +302,7 @@
     
     .row.justify-content-center.align-items-center
       .col-lg-9.col-12.mb-3
-        p(data-aos="fade-left") La gestión de marca o branding es esencial para crear un sólido posicionamiento de marca. Esto es fundamental para que un producto, servicio u organización perdure en el tiempo y logre conectarse con los consumidores, fidelizándolos. El posicionamiento de marca se puede definir como el espacio que ocupa en la mente del consumidor en respuesta a la sociedad hipercomunicada y activa en la que vivimos, y esto es el resultado de las estrategias de <i>marketing</i> empleadas.
+        p(data-aos="fade-left") La gestión de marca o <i>branding</i> es esencial para crear un sólido posicionamiento de marca. Esto es fundamental para que un producto, servicio u organización perdure en el tiempo y logre conectarse con los consumidores, fidelizándolos. El posicionamiento de marca se puede definir como el espacio que ocupa en la mente del consumidor en respuesta a la sociedad hipercomunicada y activa en la que vivimos, y esto es el resultado de las estrategias de <i>marketing</i> empleadas.
         p(data-aos="fade-left") El posicionamiento de marca permite diferenciar a la organización de la competencia, ya que los consumidores tienen en su mente una marca que consumen y, a menudo, recomiendan. Esto es fundamental en un mercado competitivo.
         p(data-aos="fade-left") Todo esto se logra a través de una combinación de elementos, como la identidad de la marca, los mensajes de <i>marketing</i>, la calidad del producto o servicio, la experiencia del cliente y otros factores. Algunos de los tipos de posicionamientos de marca más comunes son:
       .col-lg-3.col-8.mb-3
@@ -327,7 +327,7 @@
     .row.justify-content-center.mt-5 
       .col-lg-10.col-12
         .cajon.color-primario.p-4.mb-3(style="background-color: #E3ECF7")
-          p(data-aos="fade-left") Para obtener una visión más detallada sobre las estrategias de marketing en el contexto de la creación y gestión de una marca, le recomiendo consultar el material complementario titulado <b>"La evolución e implementación de la marca país en Colombia y su internacionalización"</b>. Este documento proporcionará información valiosa y ejemplos específicos relacionados con la creación y promoción de una marca, especialmente en el contexto de un país o región.
+          p(data-aos="fade-left") Para obtener una visión más detallada sobre las estrategias de <i>marketing</i> en el contexto de la creación y gestión de una marca, le recomiendo consultar el material complementario titulado <b>"La evolución e implementación de la marca país en Colombia y su internacionalización"</b>. Este documento proporcionará información valiosa y ejemplos específicos relacionados con la creación y promoción de una marca, especialmente en el contexto de un país o región.
 
 </template>
 

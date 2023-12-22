@@ -52,7 +52,7 @@
             figure.movil(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema1/6.svg' alt='En la figura 2 se muestran los elementos que componen la comunicación.')
     
-    p(data-aos="fade-left") La comunicación digital se define como el intercambio de información entre individuos a través de canales digitales y software diseñados para la comunicación remota. Estos medios digitales permiten la creación de codificaciones para transmitir información electrónicamente a destinatarios específicos. En este proceso, se deben considerar varios elementos clave, particularmente en el contexto organizacional:
+    p(data-aos="fade-left") La comunicación digital se define como el intercambio de información entre individuos a través de canales digitales y <i>software</i> diseñados para la comunicación remota. Estos medios digitales permiten la creación de codificaciones para transmitir información electrónicamente a destinatarios específicos. En este proceso, se deben considerar varios elementos clave, particularmente en el contexto organizacional:
 
     .row.justify-content-center.mt-5
       .col-12
@@ -158,7 +158,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_1_1 1.1 Técnicas y estrategias de la comunicación digital
 
-    p(data-aos="fade-left") La implementación de la comunicación digital en nuestras actividades diarias, ya sea a nivel organizacional, profesional o personal, está estrechamente vinculada a los avances tecnológicos y a las herramientas que tenemos a nuestra disposición, como <i>WhatsApp</i>. Estas aplicaciones digitales comparten un propósito común: atraer consumidores.
+    p(data-aos="fade-left") La implementación de la comunicación digital en nuestras actividades diarias, ya sea a nivel organizacional, profesional o personal, está estrechamente vinculada a los avances tecnológicos y a las herramientas que tenemos a nuestra disposición, como WhatsApp. Estas aplicaciones digitales comparten un propósito común: atraer consumidores.
 
     .row.justify-content-center 
       .col-lg-10.col-12
@@ -200,7 +200,7 @@
               h5 Importante…
               p Para desarrollar las estrategias y técnicas de comunicación digital se debe crear un plan que permita alcanzar los objetivos de comunicación a través de los canales digitales en un tiempo determinado, con el propósito de construir una red que promueva la interacción de una comunidad o grupo determinado de individuos, o lo que se llama comunidades virtuales.
 
-    p.mt-5(data-aos="fade-left") Las estrategias de comunicación digital hacen parte de las estrategias de marketing, como una campaña publicitaria o un plan de <i>social media</i> de las organizaciones, por lo cual para crear una de las primeras se deben tener en cuenta los siguientes pasos:
+    p.mt-5(data-aos="fade-left") Las estrategias de comunicación digital hacen parte de las estrategias de <i>marketing</i>, como una campaña publicitaria o un plan de <i>social media</i> de las organizaciones, por lo cual para crear una de las primeras se deben tener en cuenta los siguientes pasos:
 
     .row.justify-content-center.mt-5  
       .col-lg-10.col-12
@@ -257,7 +257,7 @@
       h2#t_1_2 1.2 Lenguaje y narrativa de la comunicación digital
     
     p(data-aos="fade-left") La comunicación digital ha transformado el lenguaje y la narrativa de manera significativa. Los avances tecnológicos han llevado a la evolución del lenguaje para hacer que la comunicación sea más sencilla y rápida. Esto se refleja en la utilización de imágenes, símbolos, videos y emoticones en la comunicación digital.
-    p(data-aos="fade-left") En la era digital, las limitaciones de caracteres, como en <i>Twitter</i>, y la creciente prevalencia de emoticones en <i>chats</i> y mensajes de texto son ejemplos de cómo el lenguaje ha evolucionado para adaptarse a los medios digitales.
+    p(data-aos="fade-left") En la era digital, las limitaciones de caracteres, como en X, y la creciente prevalencia de emoticones en <i>chats</i> y mensajes de texto son ejemplos de cómo el lenguaje ha evolucionado para adaptarse a los medios digitales.
     
     .row.justify-content-center.mt-5
       .col-lg-10.col-12.mb
@@ -284,7 +284,7 @@
       h2#t_1_3 1.3 Protocolos de la comunicación digital
     
     p(data-aos="fade-left") Los protocolos de comunicación digital son conjuntos de normas y reglas que establecen condiciones equitativas para los consumidores en el mundo digital. Estos protocolos son aplicados en diversos medios digitales, aunque la mayoría de las personas pueden no estar conscientes de su existencia.
-    p(data-aos="fade-left") Un ejemplo de protocolo es el utilizado por la red social <i>Facebook</i> para la publicación de anuncios. Además, la comunicación digital se basa en la interconexión de sistemas y dispositivos, y esta interconexión se rige por protocolos de comunicación. Los protocolos son esquemas formales de reglas y procedimientos que definen cómo se intercambian paquetes de información entre servidores o dispositivos a través de una red.
+    p(data-aos="fade-left") Un ejemplo de protocolo es el utilizado por la red social Facebook para la publicación de anuncios. Además, la comunicación digital se basa en la interconexión de sistemas y dispositivos, y esta interconexión se rige por protocolos de comunicación. Los protocolos son esquemas formales de reglas y procedimientos que definen cómo se intercambian paquetes de información entre servidores o dispositivos a través de una red.
 
     .row.justify-content-center 
       .col-lg-10.col-12
@@ -337,7 +337,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/23.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Una de las estrategias más destacadas en el <i>marketing</i> digital es la capacidad de atraer la atención de los consumidores a través de la difusión de contenido digital. El objetivo principal es ganar seguidores leales y, a medida que se construye una relación, convertirlos en clientes. En el ciberespacio, abunda una amplia gama de contenido, y los motores de búsqueda como Google permiten a las personas acceder a información sobre prácticamente cualquier tema, ofreciendo múltiples alternativas y respuestas. Además, las redes sociales, como <i>Facebook</i>, <i>LinkedIn</i>, <i>Twitter</i> y <i>WhatsApp</i>, proporcionan información de forma continua a través de dispositivos móviles y cuentas de correo electrónico, lo que implica que los consumidores están expuestos constantemente a nuevo contenido.
+        p.mb-0 Una de las estrategias más destacadas en el <i>marketing</i> digital es la capacidad de atraer la atención de los consumidores a través de la difusión de contenido digital. El objetivo principal es ganar seguidores leales y, a medida que se construye una relación, convertirlos en clientes. En el ciberespacio, abunda una amplia gama de contenido, y los motores de búsqueda como Google permiten a las personas acceder a información sobre prácticamente cualquier tema, ofreciendo múltiples alternativas y respuestas. Además, las redes sociales, como Facebook, LinkedIn, X y WhatsApp, proporcionan información de forma continua a través de dispositivos móviles y cuentas de correo electrónico, lo que implica que los consumidores están expuestos constantemente a nuevo contenido.
           br
           br
           | 
@@ -381,17 +381,17 @@
         .cajon.p-4(style="background-color: #E3ECF7")
           .row.justify-content-center.align-items-center
             .col-lg-11.col-12
-              p Dentro de los variados tipos de contenido digital utilizados para comunicarse con el buyer persona o lead, se pueden mencionar los siguientes:
+              p Dentro de los variados tipos de contenido digital utilizados para comunicarse con el <i>buyer</i> persona o <i>lead</i>, se pueden mencionar los siguientes:
             .col-lg-8.col-12.mb-3
-              li <b>Contenido escrito:</b> este tipo de contenido implica artículos, blogs, documentos, informes y cualquier forma de texto escrito. Suele ser eficaz para transmitir información detallada, conceptos complejos y narrativas.
+              li <b>Contenido escrito:</b> este tipo de contenido implica artículos, <i>blogs</i>, documentos, informes y cualquier forma de texto escrito. Suele ser eficaz para transmitir información detallada, conceptos complejos y narrativas.
               li <b>Contenido visual:</b> incluye imágenes, gráficos, infografías y presentaciones visuales. Este tipo de contenido es efectivo para transmitir información de manera rápida y atractiva.
-              li <b>Contenido multimedia:</b> comprende elementos audiovisuales como videos, podcasts y transmisiones en vivo. Este tipo de contenido es altamente interactivo y atrae la atención de una audiencia más amplia.
+              li <b>Contenido multimedia:</b> comprende elementos audiovisuales como videos, <i>podcasts</i> y transmisiones en vivo. Este tipo de contenido es altamente interactivo y atrae la atención de una audiencia más amplia.
               li <b>Contenido Generado por el Usuario (UGC):</b> se trata de contenido creado por los propios consumidores o usuarios de un producto o servicio. Esto puede incluir reseñas, testimonios, publicaciones en redes sociales, etc.
-              li <b>Contenido de redes sociales:</b> este tipo de contenido se adapta a plataformas de redes sociales como <i>Facebook, Twitter, Instagram y LinkedIn</i>. Incluye publicaciones, <i>tweets</i>, historias y cualquier forma de contenido específica de la plataforma.
+              li <b>Contenido de redes sociales:</b> este tipo de contenido se adapta a plataformas de redes sociales como Facebook, X, Instagram y LinkedIn. Incluye publicaciones, <i>tweets</i>, historias y cualquier forma de contenido específica de la plataforma.
               li <b>Contenido de correo electrónico:</b> los correos electrónicos son una forma de contenido digital muy efectiva para la comunicación directa con la audiencia. Pueden contener anuncios, boletines informativos y contenido personalizado.
               li <b>Contenido interactivo:</b> incluye encuestas en línea, cuestionarios, pruebas, juegos y cualquier contenido que permita a la audiencia participar activamente.
               li <b>Contenido en Realidad Virtual (RV) y Realidad Aumentada (RA):</b> estos tipos de contenido ofrecen experiencias inmersivas a través de tecnología avanzada, lo que puede ser especialmente efectivo en la presentación de productos o servicios.
-              li <b>Contenido de <i>E-learning:</i></b>  diseñado para la educación en línea, este tipo de contenido incluye cursos, tutoriales, seminarios web y otros recursos educativos.
+              li <b>Contenido de <i>E-learning:</i></b>  diseñado para la educación en línea, este tipo de contenido incluye cursos, tutoriales, seminarios <i>web</i> y otros recursos educativos.
               
             .col-lg-3.col-12.mb-3
               figure
@@ -415,7 +415,7 @@
               .col-lg-8.col-12.mb-3
                 p(data-aos="fade-left") En el caso de los <i>posts</i>, constan de varios componentes esenciales. El título, por ejemplo, actúa como un gancho para captar la atención del lector. El contenido del <i>post</i> es el cuerpo principal de la publicación, donde se presenta la información relevante de manera clara y concisa. Además, los <i>posts</i> a menudo incluyen elementos multimedia, como imágenes o videos, para enriquecer la presentación. Los enlaces a fuentes adicionales o recursos relacionados también son comunes en los <i>posts</i>. Las etiquetas, o palabras clave, se utilizan para categorizar y organizar el contenido, lo que facilita la búsqueda de publicaciones relacionadas. Por último, la fecha de publicación indica cuándo se publicó el <i>post</i> y demuestra la actualidad del contenido.
                 p(data-aos="fade-left") Por otro lado, las etiquetas desempeñan un papel fundamental en la organización del contenido en <i>blogs</i> y redes sociales. Son palabras o frases clave que ayudan a los usuarios a encontrar publicaciones relacionadas y a explorar temas de su interés. 
-    p(data-aos="fade-left") Los posts se emplean principalmente en los <i>blogs</i>, los cuales se encuentran redactados en forma de artículo, y se ordenan de forma cronológica. Dentro de los elementos para estructurar un <i>post</i> se encuentran los siguientes:
+    p(data-aos="fade-left") Los <i>posts</i> se emplean principalmente en los <i>blogs</i>, los cuales se encuentran redactados en forma de artículo, y se ordenan de forma cronológica. Dentro de los elementos para estructurar un <i>post</i> se encuentran los siguientes:
 
     .row.justify-content-center.alig-items-center.mt-5
       .col-10.mb-3
@@ -426,7 +426,7 @@
           table
             thead(style="background-color: #E4FDFB")
               tr
-                td(colspan="2") <b>Título.</b> el cual debe describir el artículo, ser preciso, llamativo, corto, de fácil recordación, etc.
+                td(colspan="2") <b>Título.</b> El cual debe describir el artículo, ser preciso, llamativo, corto, de fácil recordación, etc.
             tbody
               tr(style="background-color: #F6F6F6")
                 td(rowspan="5") <b>Formatos usados:</b> videos, gráficas, imágenes, sonidos.

@@ -67,7 +67,7 @@
                 img(src='@/assets/curso/temas/tema3/5.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul
                 .p-4
-                  p <b>Canales de comunicación:</b> las organizaciones deben establecer múltiples canales de comunicación para que los clientes puedan presentar sus PQRSF. Estos canales pueden incluir oficinas físicas, plataformas virtuales, líneas telefónicas, correo electrónico, chatbots o asistentes virtuales. La diversidad de opciones permite a los clientes elegir el método que les resulte más conveniente.
+                  p <b>Canales de comunicación:</b> las organizaciones deben establecer múltiples canales de comunicación para que los clientes puedan presentar sus PQRSF. Estos canales pueden incluir oficinas físicas, plataformas virtuales, líneas telefónicas, correo electrónico, <i>chatbots</i> o asistentes virtuales. La diversidad de opciones permite a los clientes elegir el método que les resulte más conveniente.
     .row.justify-content-center
       .col-lg-10.col-12
         .row.justify-content-center
@@ -87,7 +87,7 @@
                 img(src='@/assets/curso/temas/tema3/7.svg' alt='AvatarTop')
               .tarjeta.tarjeta--azul
                 .p-4
-                  p <b>Trazabilidad:</b> es esencial implementar un sistema de seguimiento y trazabilidad de las solicitudes. Esto permite identificar el flujo y el estado de cada PQRSF desde el momento en que se recibe hasta su resolución. El software especializado suele ser de gran ayuda para llevar un registro ordenado y eficiente.
+                  p <b>Trazabilidad:</b> es esencial implementar un sistema de seguimiento y trazabilidad de las solicitudes. Esto permite identificar el flujo y el estado de cada PQRSF desde el momento en que se recibe hasta su resolución. El <i>software</i> especializado suele ser de gran ayuda para llevar un registro ordenado y eficiente.
     .row.justify-content-center
       .col-lg-10.col-12
         .row.justify-content-center
@@ -213,7 +213,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0.p-4
             h4 Áreas
-            p Las áreas del servicio son divisiones o departamentos dentro de una organización que se encargan de brindar servicios específicos a los clientes o usuarios. Algunas de las áreas comunes del servicio incluyen Servicio al Cliente, Soporte Técnico, Ventas, Marketing y Publicidad, Recursos Humanos, Logística y Entrega, Finanzas y Facturación, Calidad, Investigación y Desarrollo, y Administración y Gestión. Cada área cumple una función específica para garantizar un servicio eficiente y satisfactorio para los clientes.
+            p Las áreas del servicio son divisiones o departamentos dentro de una organización que se encargan de brindar servicios específicos a los clientes o usuarios. Algunas de las áreas comunes del servicio incluyen Servicio al Cliente, Soporte Técnico, Ventas, <i>Marketing</i> y Publicidad, Recursos Humanos, Logística y Entrega, Finanzas y Facturación, Calidad, Investigación y Desarrollo, y Administración y Gestión. Cada área cumple una función específica para garantizar un servicio eficiente y satisfactorio para los clientes.
         
           .col-md-6
             figure
@@ -235,7 +235,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/21.svg', alt='Imagen decorativa')
           
-        p <b>Reconsiderar quiénes son los clientes:</b> no solo se trata de los compradores finales, sino de todos los stakeholders involucrados en la cadena de valor de la organización. Esto incluye empleados, proveedores, socios comerciales y cualquier otra parte interesada. Todas estas personas desempeñan un papel en la experiencia general del cliente, por lo que es esencial considerar sus necesidades y expectativas.
+        p <b>Reconsiderar quiénes son los clientes:</b> no solo se trata de los compradores finales, sino de todos los <i>stakeholders</i> involucrados en la cadena de valor de la organización. Esto incluye empleados, proveedores, socios comerciales y cualquier otra parte interesada. Todas estas personas desempeñan un papel en la experiencia general del cliente, por lo que es esencial considerar sus necesidades y expectativas.
       .col-md.tarjeta.p-5(style="background-color: #33ECE0")
         .row.justify-content-center.mb-4
           .col-6
@@ -274,7 +274,7 @@
                     img(src='@/assets/curso/temas/tema3/26.jpg', alt='Imagen decorativa')
                 .col-lg-8.col-12.mb-3
                   p(data-aos="fade-left") Para mejorar la calidad del servicio, es esencial ampliar la definición de servicio más allá de la simple transacción de productos o servicios. También es necesario reconsiderar quiénes son los clientes, tanto internos como externos, y desarrollar una actitud amistosa y proactiva hacia ellos. Esto implica comprender sus necesidades, escuchar sus inquietudes y responder de manera efectiva a sus solicitudes.
-                  p(data-aos="fade-left") En este sentido, muchas organizaciones utilizan software especializado para gestionar el servicio al cliente. Estas herramientas permiten registrar y rastrear las solicitudes de los clientes, lo que facilita la comunicación y mejora la eficiencia. Además, el almacenamiento centralizado de datos de clientes brinda una visión completa de la relación con los mismos, lo que puede impulsar la toma de decisiones más informada y personalizada. A continuación, se describen los beneficios de la implementación de software al servicio al cliente:
+                  p(data-aos="fade-left") En este sentido, muchas organizaciones utilizan <i>software</i> especializado para gestionar el servicio al cliente. Estas herramientas permiten registrar y rastrear las solicitudes de los clientes, lo que facilita la comunicación y mejora la eficiencia. Además, el almacenamiento centralizado de datos de clientes brinda una visión completa de la relación con los mismos, lo que puede impulsar la toma de decisiones más informada y personalizada. A continuación, se describen los beneficios de la implementación de <i>software</i> al servicio al cliente:
 
     .row.justify-content-center.mt-5
       .col-lg-10.col-12 
@@ -289,7 +289,7 @@
           .col-12 
             figure.movil(data-aos="fade-right")
               img(src='@/assets/curso/temas/tema3/28.svg' alt='En la figura 8 se muestran los beneficios de la implementación de software de servicio al cliente.')
-    p.mt-5(data-aos="fade-left") Dentro del software de gestión del servicio al cliente se encuentran: 
+    p.mt-5(data-aos="fade-left") Dentro del <i>software</i> de gestión del servicio al cliente se encuentran: 
 
     .row.justify-content-center.mt-5
       .col-lg-10.col-12 
@@ -323,7 +323,7 @@
                     td ● Permite la relación e interacción entre las organizaciones y el cliente, debido a que automatiza los procesos.
                     td ● Gestiona las ventas de las organizaciones debido a que almacena, implementa y genera informes de los clientes, proveedores, vendedores, inventarios, cuentas por pagar y cuentas por cobrar, etc.
                   tr
-                    td ● La implementación de este sistema al interior de las organizaciones permite gestionar los contactos de los clientes, las ventas y el marketing
+                    td ● La implementación de este sistema al interior de las organizaciones permite gestionar los contactos de los clientes, las ventas y el <i>marketing.</i>
                     td ● Genera los soportes de las ventas como facturas, desprendibles de pago, órdenes de pago, entre otros soportes contables.
                   tr(style="background-color: #F6F6F6")
                     td ● El sistema de gestión de las relaciones con los clientes desde la tecnología permite el registro y análisis de los datos gestionados de los clientes, las estrategias y los procesos.
@@ -492,7 +492,7 @@
                 img(src='@/assets/curso/temas/tema3/43.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0.col-12
               h4 Redes sociales
-              p Las redes sociales como <i>Facebook</i>, <i>Twitter</i> e <i>Instagram</i> brindan un canal de comunicación directa con los clientes. Las empresas pueden responder preguntas, abordar quejas y proporcionar información a través de estas plataformas.
+              p Las redes sociales como Facebook, X e Instagram brindan un canal de comunicación directa con los clientes. Las empresas pueden responder preguntas, abordar quejas y proporcionar información a través de estas plataformas.
           .row.justify-content-center.align-items-center(titulo="04")
             .col-lg-2.col-6
               figure
@@ -506,7 +506,7 @@
                 img(src='@/assets/curso/temas/tema3/45.svg', alt='Imagen decorativa')
             .col-lg-10.mb-4.mb-lg-0.col-12
               h4 Mensajería instantánea
-              p Plataformas de mensajería como <i>WhatsApp</i> y <i>Facebook</i> <i>Messenger</i> se utilizan cada vez más para interactuar con los clientes. Las empresas pueden proporcionar asistencia a través de mensajes de texto y multimedia.
+              p Plataformas de mensajería como WhatsApp y Facebook Messenger se utilizan cada vez más para interactuar con los clientes. Las empresas pueden proporcionar asistencia a través de mensajes de texto y multimedia.
 
     .row.justify-content-center.mt-5
       .col-lg-10.col-12

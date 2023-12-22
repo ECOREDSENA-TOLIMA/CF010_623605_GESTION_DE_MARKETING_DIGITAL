@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Adecuada gestión de la comunicación.
+          h2 Adecuada gestión de la comunicación
         p.mb-4 #[b Objetivo:] aplicar los conocimientos sobre gestión de la comunicación en el manejo de comunidades virtuales de acuerdo con técnicas de relaciones públicas y tipo de negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
