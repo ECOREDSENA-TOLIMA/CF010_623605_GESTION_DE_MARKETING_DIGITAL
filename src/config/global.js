@@ -350,7 +350,7 @@ export default {
       referencia:
         'Universidad Cooperativa de Colombia. (2020). Análisis de satisfacción del cliente en la empresa Aguas de Valencia S.A.S en el Municipio de Valencia Córdoba.',
       link:
-        'https://repository.ucc.edu.co/bitstream/20.500.12494/20514/5/2020_an%C3%A1lisis_satisfacci%C3%B3n_cliente.pdf',
+        'https://repository.ucc.edu.co/server/api/core/bitstreams/49e65681-46f2-4b60-855f-1d4d68ec42f9/content',
     },
     {
       referencia:
