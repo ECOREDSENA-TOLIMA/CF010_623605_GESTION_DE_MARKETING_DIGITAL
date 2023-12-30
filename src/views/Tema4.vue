@@ -144,21 +144,21 @@
           p Una vez se crea el plan estratégico de gestión de marca, se inicia con la construcción del plan detallado para la modelación de la marca basado en: el logo, slogan, colores y animaciones que determinan y caracterizan la marca.
       
         .col-md-10.mt-3
-          figure(data-aos="fade-right")
+          figure
             img(src='@/assets/curso/temas/tema4/11.svg' alt='Imagen decorativa')
       .row.justify-content-center(titulo="Integrar")
         .col-md-12.mb-4.mb-md-0
           p Dentro de la integración de la marca se debe lograr la suma continua de los siguientes factores: lenguaje, conexión y emociones, publicidad y canales digitales.
       
         .col-md-10.mt-3
-          figure(data-aos="fade-right")
+          figure
             img(src='@/assets/curso/temas/tema4/12.svg' alt='Imagen decorativa')
       .row.justify-content-center(titulo="Evitar errores")
         .col-md-12.mb-4.mb-md-0
           p Al existir una correcta investigación y planeación de la creación de marca se debe evitar imitar a la competencia, enviar mensajes contradictorios y perder la coherencia con lo que se pretende transmitir con la marca.
       
         .col-md-10.mt-3
-          figure(data-aos="fade-right")
+          figure
             img(src='@/assets/curso/temas/tema4/13.svg' alt='Imagen decorativa')
 
     p.mt-5(data-aos="fade-left") Con el fin de obtener información adicional, le recomendamos consultar el material complementario, donde encontrará un documento en PDF titulado "Consumidores, marcas y construcción de identidad". Este documento proporcionará una perspectiva más amplia sobre la construcción de la identidad empresarial.
@@ -229,13 +229,13 @@
             h5 Figura 13.
             span #[i Las 22 leyes inmutables de la marca]
           .col-12 
-            figure.desktop(data-aos="fade-right")
+            figure.desktop
               img(src='@/assets/curso/temas/tema4/14.svg' alt='En la figura 13 se muestran las 22 leyes inmutables para la construcción de la marca.')
               figcaption Nota. Tomada de https://ticsyformacion.com/ 
               
           .row.justify-content-center
             .col-12 
-              figure.movil(data-aos="fade-right")
+              figure.movil
                 img(src='@/assets/curso/temas/tema4/15.svg' alt='En la figura 13 se muestran las 22 leyes inmutables para la construcción de la marca.')
                 figcaption Nota. Tomada de https://ticsyformacion.com/ 
     p.mt-5(data-aos="fade-left") Cada una de ellas ofrece ideas y directrices valiosas para la construcción y gestión de una marca sólida. Para implementar estas leyes se hace necesario seguir los siguientes parámetros:
@@ -324,10 +324,12 @@
               figure.movil(data-aos="fade-right")
                 img(src='@/assets/curso/temas/tema4/25.svg' alt='En la figura 14 se muestran los diferentes tipos de posicionamiento de marca más comunes actualmente.')
     p.mt-5(data-aos="fade-left") Cada uno de los enfoques de posicionamiento de marca presenta sus propias ventajas, y la elección de uno de ellos se basa en la estrategia y los objetivos específicos de la marca, así como en el perfil de su público objetivo. Un posicionamiento sólido de la marca es de suma importancia en un entorno altamente competitivo, ya que permite a una marca destacarse y construir relaciones duraderas y significativas con los consumidores.
-    .row.justify-content-center.mt-5 
+    //-.row.justify-content-center.mt-5 
       .col-lg-10.col-12
         .cajon.color-primario.p-4.mb-3(style="background-color: #E3ECF7")
-          p(data-aos="fade-left") Para obtener una visión más detallada sobre las estrategias de <i>marketing</i> en el contexto de la creación y gestión de una marca, le recomiendo consultar el material complementario titulado <b>"La evolución e implementación de la marca país en Colombia y su internacionalización"</b>. Este documento proporcionará información valiosa y ejemplos específicos relacionados con la creación y promoción de una marca, especialmente en el contexto de un país o región.
+          p Para obtener una visión más detallada sobre las estrategias de <i>marketing</i> en el contexto de la creación y gestión de una marca, le recomiendo consultar el material complementario titulado <b>"La evolución e implementación de la marca país en Colombia y su internacionalización"</b>. Este documento proporcionará información valiosa y ejemplos específicos relacionados con la creación y promoción de una marca, especialmente en el contexto de un país o región.
+
+    p(data-aos="fade-left") Para obtener una visión más detallada sobre las estrategias de <i>marketing</i> en el contexto de la creación y gestión de una marca, le recomiendo consultar el material complementario titulado <b>"La evolución e implementación de la marca país en Colombia y su internacionalización"</b>. Este documento proporcionará información valiosa y ejemplos específicos relacionados con la creación y promoción de una marca, especialmente en el contexto de un país o región.
 
 </template>
 

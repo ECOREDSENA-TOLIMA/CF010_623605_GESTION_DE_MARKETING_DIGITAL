@@ -190,7 +190,7 @@ export default {
       tema: 'Construcción de Marca',
       referencia:
         'García Capdevilla, D. A.;  Velásquez Valencia, A. & Jiménez Fajardo, J. A. (2022). Estrategias para potencializar el turismo de naturaleza mediado por el marketing en busca de la conservación de los bosques amazónicos.',
-      tipo: 'pdf',
+      tipo: 'PDF',
       link:
         'https://entornogeografico.univalle.edu.co/index.php/entornogeografico/article/view/11714',
     },
@@ -198,7 +198,7 @@ export default {
       tema: 'Posicionamiento de una marca',
       referencia:
         'Sierra Rodríguez, O. y Infante Rivera, O. M. (2021). La evolución e implementación de la marca país en Colombia y su internacionalización.',
-      tipo: 'pdf',
+      tipo: 'PDF',
       link:
         'https://revistas.ufps.edu.co/index.php/visioninternacional/article/view/3198/3818',
     },
