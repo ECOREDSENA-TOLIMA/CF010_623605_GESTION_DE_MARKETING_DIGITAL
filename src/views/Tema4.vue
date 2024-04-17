@@ -120,44 +120,35 @@
 
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-      .row(titulo="Investigar")
-        .col-md-12.mb-4.mb-md-0
+      .row.justify-content-center(titulo="Investigar")
+        .col
           p Hace referencia a la búsqueda de información para profundizar en quién es el consumidor, cuál es la propuesta de valor que requieren, cuáles son los ejes estratégicos de la organización, por lo cual también se hace necesario el análisis externo e interno que permita la construcción de la matriz DOFA. Una vez se determine esto se puede crear un plan estratégico de creación o gestión de marca.
-      
-        .col-md-12
-          .row.justify-content-center.mt-5
-            .col-12 
-              .titulo-sexto.color-acento-contenido
-                h5 Figura 12.
-                span #[i Organización]
-              .col-12 
-                figure.desktop(data-aos="fade-right")
-                  img(src='@/assets/curso/temas/tema4/9.svg' alt='En la figura 12 se muestran los diferentes tipos de posicionamiento de marca más comunes actualmente.')
-                  
-              .row.justify-content-center
-                .col-12 
-                  figure.movil(data-aos="fade-right")
-                    img(src='@/assets/curso/temas/tema4/10.svg' alt='En la figura 12 se muestran los diferentes tipos de posicionamiento de marca más comunes actualmente.')
+          .titulo-sexto.color-acento-contenido
+            h5 Figura 12.
+            span #[i Organización]
+          figure
+            img.d-lg-flex.d-none(src='@/assets/curso/temas/tema4/9.svg' alt='En la figura 12 se muestran los diferentes tipos de posicionamiento de marca más comunes actualmente.')
+            img.d-lg-none.d-flex(src='@/assets/curso/temas/tema4/10.svg' alt='En la figura 12 se muestran los diferentes tipos de posicionamiento de marca más comunes actualmente.')             
 
       .row.justify-content-center(titulo="Diseñar")
-        .col-md-12.mb-4.mb-md-0
+        .col-lg-12
           p Una vez se crea el plan estratégico de gestión de marca, se inicia con la construcción del plan detallado para la modelación de la marca basado en: el logo, slogan, colores y animaciones que determinan y caracterizan la marca.
       
-        .col-md-10.mt-3
+        .col-lg-10.mt-3
           figure
             img(src='@/assets/curso/temas/tema4/11.svg' alt='Imagen decorativa')
       .row.justify-content-center(titulo="Integrar")
-        .col-md-12.mb-4.mb-md-0
+        .col-lg-12.mb-4.mb-md-0
           p Dentro de la integración de la marca se debe lograr la suma continua de los siguientes factores: lenguaje, conexión y emociones, publicidad y canales digitales.
       
-        .col-md-10.mt-3
+        .col-lg-10.mt-3
           figure
             img(src='@/assets/curso/temas/tema4/12.svg' alt='Imagen decorativa')
       .row.justify-content-center(titulo="Evitar errores")
-        .col-md-12.mb-4.mb-md-0
+        .col-lg-12.mb-4.mb-md-0
           p Al existir una correcta investigación y planeación de la creación de marca se debe evitar imitar a la competencia, enviar mensajes contradictorios y perder la coherencia con lo que se pretende transmitir con la marca.
       
-        .col-md-10.mt-3
+        .col-lg-10.mt-3
           figure
             img(src='@/assets/curso/temas/tema4/13.svg' alt='Imagen decorativa')
 

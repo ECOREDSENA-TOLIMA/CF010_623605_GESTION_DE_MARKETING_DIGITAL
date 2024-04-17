@@ -43,14 +43,9 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span #[i Elementos de la comunicación.]
-        .col-12 
-          figure.desktop(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema1/5.svg' alt='En la figura 2 se muestran los elementos que componen la comunicación.')
-            
-        .row.justify-content-center
-          .col-12 
-            figure.movil(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema1/6.svg' alt='En la figura 2 se muestran los elementos que componen la comunicación.')
+        figure(data-aos="fade-right")
+          img.d-lg-flex.d-none(src='@/assets/curso/temas/tema1/5.svg' alt='En la figura 2 se muestran los elementos que componen la comunicación.')
+          img.d-lg-none.d-flex(src='@/assets/curso/temas/tema1/6.svg' alt='En la figura 2 se muestran los elementos que componen la comunicación.')
     
     p(data-aos="fade-left") La comunicación digital se define como el intercambio de información entre individuos a través de canales digitales y <i>software</i> diseñados para la comunicación remota. Estos medios digitales permiten la creación de codificaciones para transmitir información electrónicamente a destinatarios específicos. En este proceso, se deben considerar varios elementos clave, particularmente en el contexto organizacional:
 

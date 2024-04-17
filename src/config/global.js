@@ -163,7 +163,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar pdf',
-        download: 'downloads/CFA_10_623605.zip',
+        download: 'downloads/CFA_10_623605_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -237,7 +237,7 @@ export default {
     {
       termino: 'Influenciador',
       significado:
-        'en social media es aquella persona que tiene capacidad para viralizar y compartir contenidos con un amplio número de personas.',
+        'en <em>social media</em> es aquella persona que tiene capacidad para viralizar y compartir contenidos con un amplio número de personas.',
     },
     {
       termino: 'Infografía',
@@ -267,7 +267,7 @@ export default {
     {
       termino: '<em>Youtubers</em>',
       significado:
-        'son las personas que crean y suben videos a <i>YouTube</i> y han convertido su canal en algo más que una afición. El <i>YouTuber</i> gana dinero por los anuncios de los videos o por mostrar productos patrocinados.',
+        'son las personas que crean y suben videos a YouTube y han convertido su canal en algo más que una afición. El <i>YouTuber</i> gana dinero por los anuncios de los videos o por mostrar productos patrocinados.',
     },
   ],
   referencias: [
