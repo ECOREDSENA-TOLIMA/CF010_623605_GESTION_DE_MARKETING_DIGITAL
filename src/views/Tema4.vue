@@ -218,17 +218,12 @@
         .col-12 
           .titulo-sexto.color-acento-contenido
             h5 Figura 13.
-            span #[i Las 22 leyes inmutables de la marca]
-          .col-12 
-            figure.desktop
-              img(src='@/assets/curso/temas/tema4/14.svg' alt='En la figura 13 se muestran las 22 leyes inmutables para la construcción de la marca.')
-              figcaption Nota. Tomada de https://ticsyformacion.com/ 
+            i Las 22 leyes inmutables de la marca
+          figure
+            img.d-lg-flex.d-none(src='@/assets/curso/temas/tema4/14.svg' alt='En la figura 13 se muestran las 22 leyes inmutables para la construcción de la marca.')
+            img.d-lg-none.d-flex(src='@/assets/curso/temas/tema4/15.svg' alt='En la figura 13 se muestran las 22 leyes inmutables para la construcción de la marca.')
+            figcaption Nota. Tomada de https://ticsyformacion.com/ 
               
-          .row.justify-content-center
-            .col-12 
-              figure.movil
-                img(src='@/assets/curso/temas/tema4/15.svg' alt='En la figura 13 se muestran las 22 leyes inmutables para la construcción de la marca.')
-                figcaption Nota. Tomada de https://ticsyformacion.com/ 
     p.mt-5(data-aos="fade-left") Cada una de ellas ofrece ideas y directrices valiosas para la construcción y gestión de una marca sólida. Para implementar estas leyes se hace necesario seguir los siguientes parámetros:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
